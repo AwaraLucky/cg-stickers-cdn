@@ -503,6 +503,48 @@
           "emojis": ["😆","😂"]
         }
       ]
+    },
+	{
+      "identifier": "6",
+      "name": "Garmi Aage",
+      "publisher": "CB",
+      "tray_image_file": "tray.png",
+      "image_data_version":"1",
+      "avoid_cache":true,
+      "publisher_email":"utillyhub@gmail.com",
+      "publisher_website": "https://utillyhub.com",
+      "privacy_policy_website": "https://utillyhub.com",
+      "license_agreement_website": "https://utillyhub.com",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😆","😂"]
+        }
+      ]
     }
   ]
 }
