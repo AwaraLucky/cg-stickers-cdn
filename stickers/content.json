@@ -3,7 +3,7 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "1",
+      "identifier": "text_1",
       "name": "CG-1",
       "publisher": "CB",
       "tray_image_file": "tray.png",
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "identifier": "2",
+      "identifier": "text_2",
       "name": "CG-2",
       "publisher": "CB",
       "tray_image_file": "tray.png",
@@ -235,40 +235,12 @@
         {
           "image_file": "22.webp",
           "emojis": ["😔","🥰"]
-        },
-        {
-          "image_file": "23.webp",
-          "emojis": ["💃","🥰"]
-        },
-        {
-          "image_file": "24.webp",
-          "emojis": ["🙍‍♂","😟"]
-        },
-        {
-          "image_file": "25.webp",
-          "emojis": ["🙍‍♂","😟"]
-        },
-        {
-          "image_file": "26.webp",
-          "emojis": ["🙍‍♂","😟"]
-        },
-        {
-          "image_file": "27.webp",
-          "emojis": ["🙍‍♂","😟"]
-        },
-        {
-          "image_file": "28.webp",
-          "emojis": ["🙍‍♂","😟"]
-        },
-        {
-          "image_file": "29.webp",
-          "emojis": ["🙍‍♂","😟"]
         }
       ]
     },
     {
-      "identifier": "3",
-      "name": "CG Food",
+      "identifier": "img_text_1",
+      "name": "CG-3",
       "publisher": "CB",
       "tray_image_file": "tray-food.png",
       "image_data_version":"1",
@@ -357,12 +329,36 @@
         {
           "image_file": "20.webp",
           "emojis": ["😘","🍪"]
+        },
+		  {
+          "image_file": "21.webp",
+          "emojis": ["😘","🍪"]
+        },
+		  {
+          "image_file": "22.webp",
+          "emojis": ["😘","🍪"]
+        },
+		  {
+          "image_file": "23.webp",
+          "emojis": ["😘","🍪"]
+        },
+		  {
+          "image_file": "24.webp",
+          "emojis": ["😘","🍪"]
+        },
+		  {
+          "image_file": "25.webp",
+          "emojis": ["😘","🍪"]
+        },
+		  {
+          "image_file": "26.webp",
+          "emojis": ["😘","🍪"]
         }
       ]
     },
     {
-      "identifier": "4",
-      "name": "CG-3",
+      "identifier": "food_1",
+      "name": "CG Food",
       "publisher": "CB",
       "tray_image_file": "tray.png",
       "image_data_version":"1",
@@ -455,7 +451,7 @@
       ]
     },
     {
-      "identifier": "5",
+      "identifier": "festival_1",
       "name": "CG Tihar",
       "publisher": "CB",
       "tray_image_file": "tray.png",
@@ -505,8 +501,8 @@
       ]
     },
 	{
-      "identifier": "6",
-      "name": "Garmi Aage",
+      "identifier": "season_1",
+      "name": "CG Mausam",
       "publisher": "CB",
       "tray_image_file": "tray.png",
       "image_data_version":"1",
@@ -542,6 +538,22 @@
         },
         {
           "image_file": "7.webp",
+          "emojis": ["😆","😂"]
+        },
+		  {
+          "image_file": "8.webp",
+          "emojis": ["😆","😂"]
+        },
+		  {
+          "image_file": "9.webp",
+          "emojis": ["😆","😂"]
+        },
+		  {
+          "image_file": "10.webp",
+          "emojis": ["😆","😂"]
+        },
+		  {
+          "image_file": "11.webp",
           "emojis": ["😆","😂"]
         }
       ]
