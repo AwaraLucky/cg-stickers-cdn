@@ -455,7 +455,7 @@
       "name": "CG Tihar",
       "publisher": "CB",
       "tray_image_file": "tray.png",
-      "image_data_version":"1",
+      "image_data_version":"2",
       "avoid_cache":true,
       "publisher_email":"utillyhub@gmail.com",
       "publisher_website": "https://utillyhub.com",
@@ -496,6 +496,22 @@
         },
         {
           "image_file": "9.webp",
+          "emojis": ["😆","😂"]
+        },
+		{
+          "image_file": "10.webp",
+          "emojis": ["😆","😂"]
+        },
+		{
+          "image_file": "11.webp",
+          "emojis": ["😆","😂"]
+        },
+		{
+          "image_file": "12.webp",
+          "emojis": ["😆","😂"]
+        },
+		{
+          "image_file": "13.webp",
           "emojis": ["😆","😂"]
         }
       ]
